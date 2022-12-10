@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navbar() {
   return (
    <>
-        <nav className="navbar mt-md-1 navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar mt-md-1 navbar-expand-lg navbar-light bg-light shadow">
   <div className="container-fluid">
     <a className="navbar-brand" href="/">Currency Convertor</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
